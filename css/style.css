@@ -1,0 +1,20 @@
+img{
+    height: 100px;
+}
+div{
+    font-size: 40px;
+    font-family:  'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 2%;
+    text-align: center;
+    background-color: #1BE3CC;
+    color: whitesmoke;
+    margin: 20px;
+}
+h1{
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: #35B8A9;
+}
+p{
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
